@@ -1,1 +1,1 @@
-# docker-ds-python
+Docker container containing some python libraries
