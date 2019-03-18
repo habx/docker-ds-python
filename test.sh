@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build . -t habx-ds-python 
+docker build . -t habx-ds-python
